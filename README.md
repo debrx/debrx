@@ -1,26 +1,31 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 💗👉😊 About Me
+## 👩‍💻 About Me
+Hi, I'm Deborah — a 3rd Year Computer Science student at Edinburgh Napier University!
 
-- I am Deborah Ama, a **3rd Year Computer Science Student** studying at Edinburgh Napier University! 
-- I am most skilled in Full Stack Web Development, SQL, Py
-- I am interested in learning more about software development
+- I code using Python, SQL, and specialize in Full Stack Web Development
+- I’m most skilled in Full Stack Web Development
+- I'm passionate about software development, AI, and deepening my knowledge in data systems and backend technologies
+
+Always learning, always building!
 
 😎 Outside the tech world, I enjoy reading, cooking, and creating videos!.
 
 ## 🛠️ Skills
  
-![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=git&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![nodejs](https://img.shields.io/badge/Nodejs-000000?style=for-the-badge&logo=nodejs&logoColor=white)
-![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
-![mongodb](https://img.shields.io/badge/Mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=00072d)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=001c55)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&color=0a2472)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=0e6ba8)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=0a2472)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=001c55)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=00072d)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=001c55)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0a2472)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=0e6ba8)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=0a2472)
+
+
 
 ## 😶‍🌫️ Networking
 - I am currently looking for a summer 2026 internship
