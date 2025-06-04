@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me
 Hi, I'm Deborah — a 3rd Year Computer Science student at Edinburgh Napier University!
 
-- I'mcurrently undertaking a Year in Industry as a Technical Consultant!
+- I'm currently undertaking a Year in Industry as a Technical Consultant!
 - I’m most skilled in Full Stack Web Development
 - I'm passionate about software development, AI, and deepening my knowledge in data systems and backend technologies
 
